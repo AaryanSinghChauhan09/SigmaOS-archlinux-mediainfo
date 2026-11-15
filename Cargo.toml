@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-mediainfo component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-mediainfo"
+name = "sigmaos_archlinux_mediainfo"
 path = "src/lib.rs"
