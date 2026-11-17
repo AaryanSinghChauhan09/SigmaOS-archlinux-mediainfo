@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-mediainfo"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-mediainfo component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
